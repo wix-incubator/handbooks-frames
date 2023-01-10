@@ -10,6 +10,21 @@ materials and the time required and allow discussion about that.
 
 ### [Wix enter FED course](./frames/wix-enter-fed-course.md)
 
+Prerequisites : 
+``
+none
+``
+
+Duration :
+``
+8 full working days
+``
+
+Built from : 
+``
+external resources, udemy paid courses and mentors  
+``
+
 You’ll get the knowledge you need in order to be a front-end developer.
 This is the time to understand and ask questions.
 Make sure all the content you learn here is fully understood.
