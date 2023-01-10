@@ -51,7 +51,7 @@ Videos include recommended time slots, but critical to watch before live session
 - All live sessions will be recorded
 
 
-###[FED growth handbook](./frames/fed-growth-handbook.md)
+### [FED growth handbook](./frames/fed-growth-handbook.md)
 
 * FED bank of learning materials, for those who joined us in the current "Wix Enter" cycle for future use,
     in "Wix Enter" program, in the different crash courses, 
