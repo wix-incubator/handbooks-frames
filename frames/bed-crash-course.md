@@ -58,7 +58,7 @@ Also, please take the time to read [this introduction document]() before startin
 - 📅 Bazel - Live session Q&A
 - 📹 [Identity and authorization - watch video: "Overview on Identity and Authorization.Identity types Setting up and checking permissions. HL overview of Authorization"]()
 
-## Day 4-
+## Day 4
 
 - 📅 Identity and authorization - live session: Q&A and live demo
 - 📹 [Public and meta site - watch video: What you need to know about metasite and public]()
