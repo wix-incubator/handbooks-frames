@@ -21,9 +21,11 @@ Duration :
 ``
 
 Built from : 
-``
-external resources, udemy paid courses and mentors  
-``
+```
+external resources
+udemy paid courses 
+live mentor support   
+```
 
 You’ll get the knowledge you need in order to be a front-end developer.
 This is the time to understand and ask questions.
@@ -44,6 +46,28 @@ We won’t cover in the course:
 
 ### [FED crash course](./frames/fed-crash-course.md)
 
+Prerequisites :
+```
+Basics of Git
+Intermediate JS knowledge
+Basic NodeJS knowledge
+ES6
+React - Main concepts
+```
+
+Duration :
+``
+10 full working days
+``
+
+Built from :
+```
+internal resources (like : fed-handbook)
+recorded videos
+coding exercises 
+live mentor support 
+```
+
 You’ll get the knowledge you need in order to be a FED in Wix. During your time up till now in Wix, I guess you heard some concepts or terms you’re not familiar with or did some stuff you don’t fully understand (all the moving parts, what’s going on under the hood, and so on). This is the place to understand and ask questions. Make sure all the content you learn here is fully understood.
 
 By the end of this course you should:
@@ -56,7 +80,24 @@ We won’t cover in the course:
   - We won’t dive into any specific group or company domain
 
 ### [BED crash course](./frames/bed-crash-course.md)
+Prerequisites :
+```
 
+
+```
+
+Duration :
+``
+8 full working days
+``
+
+Built from :
+```
+internal resources (like : fed-handbook)
+recorded videos
+coding exercises 
+live mentor support 
+```
 You’ll get the knowledge you need in order to be a BED in Wix. During your time up till now in Wix, I guess you heard some concepts or terms you’re not familiar with or did some stuff you don’t fully understand (all the moving parts, what’s going on under the hood, and so on). This is the place to understand and ask questions. Make sure all the content you learn here is fully understood.
 
 Each topic you learn will start by watching the recording (AKA video)
@@ -67,7 +108,26 @@ Videos include recommended time slots, but critical to watch before live session
 
 
 ### [FED growth handbook](./frames/fed-growth-handbook.md)
+Prerequisites :
+```
+Be able to work on a mac environment
+Understand the key concepts of source controls
+Git & Github, 
+Be able to build HTML with CSS pages
+React.js
+```
 
+Duration :
+``
+individually 
+``
+
+Built from :
+```
+README.MD files per topic 
+recorded videos
+coding exercises 
+```
 * FED bank of learning materials, for those who joined us in the current "Wix Enter" cycle for future use,
     in "Wix Enter" program, in the different crash courses, 
     for the junior programs or just as learning & growth materials for our engineers.
