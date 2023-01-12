@@ -9,7 +9,7 @@ allowing discussion about the different types of materials their timeframes and 
 
 # ToC
 
-### [Wix FED Students Course(aka: wix-enter))](./frames/wix-enter-fed-course.md)
+### [Wix FED Students Course(aka: wix-enter)](./frames/wix-enter-fed-course.md)
 
 Prerequisites : 
 ``
