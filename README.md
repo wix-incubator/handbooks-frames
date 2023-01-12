@@ -1,10 +1,10 @@
 # handbooks-frames
 
-A database that simulates our learning materials,
+A database that simulates our learning materials and resources,
 The materials and information presented are not real, 
-do not include access or links to real materials and are 
-intended only for the purpose of explaining the types of 
-materials and the time required and allow discussion about that.
+not including access or links to real materials,
+The database is intended only for the purpose of explaining and 
+allowing discussion about the different types of materials their timeframes and prerequisites.
 
 # ToC
 
